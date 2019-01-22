@@ -1,2 +1,3 @@
-# hello-world
-Hello world new project template.
+热更新模板
+1.做了一下重复搜索路径优化
+2.写了详细的文档
